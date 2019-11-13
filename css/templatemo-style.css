@@ -35,20 +35,22 @@ p {
 
 .primary-white-button a {
 	display: inline-block;
-	background-color: #fff;
+	background-color: #0284c0;
 	font-size: 13px;
-	padding: 12px 18px;
+	padding: 20px 18px;
 	color: #121212;
 	font-weight: 500;
 	letter-spacing: 1px;
 	text-transform: uppercase;
 	text-decoration: none;
 	border-radius: 20px;
+	margin-top: 250px;
+
 }
 
 .primary-blue-button a {
 	display: inline-block;
-	background-color: #33c1cf;
+	background-color: #0284c0;
 	font-size: 13px;
 	padding: 12px 18px;
 	color: #fff;
@@ -61,7 +63,7 @@ p {
 
 .pop-button h4 {
 	display: inline-block;
-	background-color: #33c1cf;
+	background-color: #0284c0;
 	font-size: 13px!important;
 	padding: 12px 18px;
 	color: #fff;
@@ -99,7 +101,7 @@ p {
 }
 
 .navbar-nav>li>a {
-	color: #fff!important;
+	color: rgb(0, 0, 0)!important;
 	font-size: 13px;
 	font-weight: 300;
 	text-transform: uppercase;
@@ -124,7 +126,7 @@ p {
 }
 
 .header.active {
-    background-color: rgba(250, 250, 250, 0.98);
+    background-color: rgba(255, 255, 255, 0.98);
     -webkit-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
     -moz-box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
     box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
@@ -132,14 +134,13 @@ p {
 .navbar-brand {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 25px;
-	text-transform: uppercase;
-	color: #fff!important;
+	color: rgb(0, 0, 0)!important;
 	transition: all 0.5s;
 	 
 }
 .navbar-brand em {
 	font-style: normal;
-	color: #f7c552;
+	color: #0284c0;
 	font-size: 32px;
 }
 .header.active .navbar-brand {
@@ -222,12 +223,12 @@ bootstrap.min.css:5
 .baner-content .text-content h2 {
 	font-size: 36px;
 	font-weight: 400;
-	color: #fff;
+	color: rgb(0, 0, 0);
 }
 
 .baner-content .text-content h2 span {
 	font-weight: 700;
-	color: #33c1cf!important;
+	color: #0284c0!important;
 }
 
 .baner-content .text-content h2 em {
@@ -237,7 +238,7 @@ bootstrap.min.css:5
 }
 
 .baner-content .text-content p {
-	color: #fff;
+	color: rgb(0, 0, 0);
 	font-size: 14px;
 	line-height: 24px;
 	padding: 0px 25%;
@@ -334,7 +335,7 @@ bootstrap.min.css:5
 #portfolio .section-heading {
 	padding-top: 200px;
 	padding-bottom: 200px;
-	background-color: #33c1cf;
+	background-color: #0284c0;
 	height: 732px;
 	margin-left: -100vh;
 	padding-left: 100vh;
@@ -514,11 +515,11 @@ bootstrap.min.css:5
 }
 .tabgroup .text-content span {
 	font-size: 13px;
-	color: #33c1cf;
+	color: #0284c0;
 }
 .tabgroup .text-content a {
 	font-size: 13px;
-	color: #33c1cf;
+	color: #0284c0;
 	text-decoration: none;
 }
 .tabgroup .text-content p {
@@ -640,7 +641,7 @@ bootstrap.min.css:5
 	line-height: 44px;
 	color: #fff;
 	text-align: center;
-	background-color: #33c1cf;
+	background-color: #0284c0;
 }
 
 .pop span:hover {
@@ -796,7 +797,7 @@ footer .connect-us ul li a:hover {
 		text-align: center;
 		padding-top: 100px;
 		padding-bottom: 100px;
-		background-color: #33c1cf;
+		background-color: #0284c0;
 		height: 505px;
 		margin-left: -15px;
 		padding-left: 0vh;
